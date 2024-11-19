@@ -1,0 +1,63 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS\\VS code\\PR8.1char\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36164EA5-EE29-4188-99F7-536F7619BC61}|PR8.1char.vcxproj|D:\\VS\\VS code\\PR8.1char\\PR8.1char.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{36164EA5-EE29-4188-99F7-536F7619BC61}|PR8.1char.vcxproj|solutionrelative:PR8.1char.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D4954D-FC9B-4EEC-BD2E-B4316BD98F93}|..\\PR8.1rec\\UnitTest2\\UnitTest2.vcxproj|D:\\VS\\VS code\\PR8.1rec\\UnitTest2\\UnitTest2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest2.cpp",
+              "DocumentMoniker": "D:\\VS\\VS code\\PR8.1rec\\UnitTest2\\UnitTest2.cpp",
+              "RelativeDocumentMoniker": "..\\PR8.1rec\\UnitTest2\\UnitTest2.cpp",
+              "ToolTip": "D:\\VS\\VS code\\PR8.1rec\\UnitTest2\\UnitTest2.cpp",
+              "RelativeToolTip": "..\\PR8.1rec\\UnitTest2\\UnitTest2.cpp",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAUwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-19T18:25:27.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PR8.1char.cpp",
+              "DocumentMoniker": "D:\\VS\\VS code\\PR8.1char\\PR8.1char.cpp",
+              "RelativeDocumentMoniker": "PR8.1char.cpp",
+              "ToolTip": "D:\\VS\\VS code\\PR8.1char\\PR8.1char.cpp",
+              "RelativeToolTip": "PR8.1char.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-19T18:12:41.586Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 168,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
